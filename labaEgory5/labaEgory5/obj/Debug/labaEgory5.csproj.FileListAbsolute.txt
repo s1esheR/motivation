@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\motivation\labaEgory5\labaEgory5\bin\Debug\labaEgory5.exe.config
+C:\Users\User\Desktop\motivation\labaEgory5\labaEgory5\bin\Debug\labaEgory5.exe
+C:\Users\User\Desktop\motivation\labaEgory5\labaEgory5\bin\Debug\labaEgory5.pdb
+C:\Users\User\Desktop\motivation\labaEgory5\labaEgory5\obj\Debug\labaEgory5.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\motivation\labaEgory5\labaEgory5\obj\Debug\labaEgory5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\motivation\labaEgory5\labaEgory5\obj\Debug\labaEgory5.exe
+C:\Users\User\Desktop\motivation\labaEgory5\labaEgory5\obj\Debug\labaEgory5.pdb
